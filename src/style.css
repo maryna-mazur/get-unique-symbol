@@ -1,0 +1,23 @@
+.title {
+  margin: 50px 10px 70px;
+  text-align: center;
+}
+
+.box {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.notification {
+  width: 600px;
+  margin: 0 auto;
+  display: none;
+}
